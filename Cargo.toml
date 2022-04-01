@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT"
 description = "A book manager system"
 authors = ["axum.rs <team@axum.rs>"]
-repository = "https://github.com/axumrs/axum-rs"
+repository = "https://github.com/aceaxum/abook.git"
 homepage = "https://axum.rs"
 
 [dependencies]
